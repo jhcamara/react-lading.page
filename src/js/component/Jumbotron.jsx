@@ -3,7 +3,7 @@ import React from 'react';
 const Jumbotron = () => {
     return (
         <>
-       <div className="jumbotron container bg-light mr-3">
+       <div className="jumbotron container bg-light mr-3 mb-6">
         <h1 className="display-4">A warm welcome!</h1>
         <p className="lead">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi

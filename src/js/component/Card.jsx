@@ -5,7 +5,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 
 const Card = () => {
   return (
-    <layout>
+    <layout className="d-flex">
       <div className="card" style={{ width: "18rem" }}>
         <img src={rigoImage} class="card-img-top" alt="..." />
         <div className="card-body">
